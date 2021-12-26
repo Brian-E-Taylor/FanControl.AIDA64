@@ -1,11 +1,11 @@
 # FanControl.AIDA64
 
-Plugin for [FanControl](https://github.com/Rem0o/FanControl.Releases) that provides support for AIDA64 sensors using its shared memory feature.
+Plugin for [FanControl](https://github.com/Rem0o/FanControl.Releases) that provides support for AIDA64 sensors using its WMI feature.
 
 ## To install
 
 Either
-* Download the latest binaries from [Releases]()
+* Download the latest binaries from [Releases](https://github.com/Brian-E-Taylor/FanControl.AIDA64/releases)
 * Compile the solution.
 
 And then
