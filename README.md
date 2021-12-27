@@ -10,5 +10,5 @@ Either
 
 And then
 
-1. Copy the bin/release content into FanControl's "plugins" folder.
+1. Copy the `FanControl.AIDA64.zip` contents into FanControl's "plugins" folder.
 2. Make sure AIDA64 has WMI turned on for External Applications (File -> Preferences, Hardware Monitoring -> External Applications, make sure "`Enable writing sensor values to WMI`" is checked).
